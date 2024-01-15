@@ -11,6 +11,7 @@
   "scripts": {},
   "devDependencies": {
     "@types/node": "^20.11.2",
+    "ts-node": "^10.9.2",
     "tsimp": "^2.0.10",
     "typescript": "^5.3.3"
   }
