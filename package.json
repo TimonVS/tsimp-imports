@@ -1,0 +1,17 @@
+{
+  "name": "tsimp-imports",
+  "private": true,
+  "type": "module",
+  "imports": {
+    "#*": {
+      "development": "./src/*",
+      "default": "./dist/*"
+    }
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.11.2",
+    "tsimp": "^2.0.10",
+    "typescript": "^5.3.3"
+  }
+}
